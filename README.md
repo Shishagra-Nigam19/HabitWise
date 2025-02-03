@@ -1,4 +1,4 @@
-# To-Do List
+# HABITWISE
 
 A simple and intuitive To-Do List application built with React on the frontend and Express on the backend. This app allows users to add, edit, delete, and mark tasks as completed. It provides a seamless way to manage your tasks with a responsive UI and persistent data storage.
 
